@@ -1,2 +1,2 @@
 # Arduino
- Arduino Projects- This repositort has been created to share CPP Code for Arduino Projects.
+ Arduino Projects- This repository has been created to share CPP Code for Arduino Projects.
